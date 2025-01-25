@@ -6,4 +6,5 @@ export interface Candidate {
     email?: string;
     location?: string;
     html_url: string;
+    bio?: string;
   }
