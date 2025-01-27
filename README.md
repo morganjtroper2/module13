@@ -2,7 +2,7 @@
 
 ## Usage
 
-Candidate search is a straightforward browser-based app that culls user data using the GitHub API and allows employers to screen prospective clients. Using local storage, users can "save" candidates by clicking the plus icon, or skip candidate and move onto the next user by clicking the minus icon.
+Candidate search is a straightforward browser-based app that culls user data using the GitHub API and allows employers to screen prospective clients. Using local storage, users can "save" candidates by clicking the plus icon, or skip a candidate and move onto the next user by clicking the minus icon.
 
 ![App Screenshot](ch13ss1.png)
 
